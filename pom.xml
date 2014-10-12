@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>angular-route-segment</artifactId>
-    <version>1.3.3-SNAPSHOT</version>
+    <version>1.3.3</version>
     <name>angular-route-segment</name>
     <description>WebJar for angular-route-segment</description>
     <url>http://webjars.org</url>
@@ -53,7 +53,7 @@
         <url>http://github.com/webjars/angular-route-segment</url>
         <connection>scm:git:https://github.com/webjars/angular-route-segment.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/angular-route-segment.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>angular-route-segment-1.3.3</tag>
     </scm>
     
     <dependencies>
